@@ -67,3 +67,5 @@ target_include_directories(DaisySP PUBLIC
   "Source/Synthesis"
   "Source/Utility"
   )
+
+add_subdirectory(app)
